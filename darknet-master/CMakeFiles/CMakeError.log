@@ -1,0 +1,14 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/Seo/Desktop/Yolo/darknet-master/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_9c141.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.11.1+3e40a09f8
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.29.30136(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  CheckIncludeFile.c
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9c141.dir\Debug\\" /Fd"cmTC_9c141.dir\Debug\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Users\Seo\Desktop\Yolo\darknet-master\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Users\Seo\Desktop\Yolo\darknet-master\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'pthread.h': No such file or directory [C:\Users\Seo\Desktop\Yolo\darknet-master\CMakeFiles\CMakeTmp\cmTC_9c141.vcxproj]
+
+
+

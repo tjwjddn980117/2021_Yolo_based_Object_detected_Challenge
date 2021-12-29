@@ -1,0 +1,52 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.21/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCUDAInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeParseImplicitLinkInfo.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CheckLanguage.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/NVIDIA-CUDA.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindOpenMP.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-NVIDIA-CUDA.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Seo/Desktop/Yolo/darknet-master/CMakeFiles/3.21.4/CMakeCCompiler.cmake
+C:/Users/Seo/Desktop/Yolo/darknet-master/CMakeFiles/3.21.4/CMakeCUDACompiler.cmake
+C:/Users/Seo/Desktop/Yolo/darknet-master/CMakeFiles/3.21.4/CMakeCXXCompiler.cmake
+C:/Users/Seo/Desktop/Yolo/darknet-master/CMakeFiles/3.21.4/CMakeRCCompiler.cmake
+C:/Users/Seo/Desktop/Yolo/darknet-master/CMakeFiles/3.21.4/CMakeSystem.cmake
+C:/Users/Seo/Desktop/Yolo/darknet-master/CMakeLists.txt
+C:/Users/Seo/Desktop/Yolo/darknet-master/DarknetConfig.cmake.in
+C:/Users/Seo/Desktop/Yolo/darknet-master/cmake/Modules/FindCUDNN.cmake
+C:/Users/Seo/Desktop/Yolo/darknet-master/cmake/Modules/FindPThreads4W.cmake
+C:/Users/Seo/Desktop/Yolo/darknet-master/cmake/Modules/FindStb.cmake
+C:/Users/Seo/Desktop/Yolo/darknet-master/src/version.h.in
+C:/opencv/build/x64/vc14/lib/OpenCVConfig-version.cmake
+C:/opencv/build/x64/vc14/lib/OpenCVConfig.cmake
+C:/opencv/build/x64/vc14/lib/OpenCVModules-debug.cmake
+C:/opencv/build/x64/vc14/lib/OpenCVModules-release.cmake
+C:/opencv/build/x64/vc14/lib/OpenCVModules.cmake

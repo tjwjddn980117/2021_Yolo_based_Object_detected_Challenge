@@ -1,0 +1,11 @@
+﻿  -- Install configuration: "Debug"
+  -- Installing: C:/Users/Seo/Desktop/Yolo/darknet-master/darknetd.lib
+  -- Installing: C:/Users/Seo/Desktop/Yolo/darknet-master/darknetd.dll
+  -- Installing: C:/Users/Seo/Desktop/Yolo/darknet-master/include/darknet/darknet.h
+  -- Installing: C:/Users/Seo/Desktop/Yolo/darknet-master/include/darknet/yolo_v2_class.hpp
+  -- Installing: C:/Users/Seo/Desktop/Yolo/darknet-master/uselib.exe
+  -- Installing: C:/Users/Seo/Desktop/Yolo/darknet-master/darknet.exe
+  -- Installing: C:/Users/Seo/Desktop/Yolo/darknet-master/share/darknet/DarknetTargets.cmake
+  -- Installing: C:/Users/Seo/Desktop/Yolo/darknet-master/share/darknet/DarknetTargets-debug.cmake
+  -- Installing: C:/Users/Seo/Desktop/Yolo/darknet-master/share/darknet/DarknetConfig.cmake
+  -- Installing: C:/Users/Seo/Desktop/Yolo/darknet-master/share/darknet/DarknetConfigVersion.cmake
