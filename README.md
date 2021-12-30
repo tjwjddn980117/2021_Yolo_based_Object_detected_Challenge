@@ -115,7 +115,8 @@ You can download our dataset with this URL
 dataset: https://drive.google.com/file/d/1V0TsN6g2lwNEwdx8xcUIipz8JCs3jn5F/view?usp=sharing
 
 Please set up the datasets 'obj' file in to ./data
-[look at image] (https://user-images.githubusercontent.com/51360338/147708810-f00b65c3-6eda-441d-973d-c830ac3cf050.png)
+<img width="620" alt="스크린샷 2021-12-29 오후 7 40 40" src="https://user-images.githubusercontent.com/51360338/147712934-1c4adbc3-dd5a-40b4-9b1a-b7bae9e60270.png">
+
 
 ## (neural networks for object detection)
 
