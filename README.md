@@ -18,43 +18,43 @@ Team Member:
             
 ### temp 결과 화면
 0: university_headquarters
-https://user-images.githubusercontent.com/50481107/147714278-6bf27d02-2511-42ae-9064-ca01d918afa6.png
+![147714278-6bf27d02-2511-42ae-9064-ca01d918afa6](https://user-images.githubusercontent.com/50481107/147714810-a3e2edb3-e922-4409-84ed-fff184b26548.png)
 
 1: justice_hall
-https://user-images.githubusercontent.com/50481107/147713993-0aeb54ca-1d85-4f72-968e-b7310176f732.png
+![147713854-e3117fcf-ccb3-4ec8-8bb7-28d4fb37c314](https://user-images.githubusercontent.com/50481107/147714919-844d692a-79d6-4f6b-98c0-06fa52ef45d9.png)ㄴ
 
 2: cheongsong_hall
-https://user-images.githubusercontent.com/50481107/147714134-52f38718-fb2a-439b-954d-b6236bde8abe.png
+![147713993-0aeb54ca-1d85-4f72-968e-b7310176f732](https://user-images.githubusercontent.com/50481107/147714823-71e20e21-49ad-43ee-b1f7-1da839ff1518.png)
 
 3: creation_hall
-https://user-images.githubusercontent.com/50481107/147714187-16218480-889b-4420-83bd-1f8c921c40fb.png
+![147714134-52f38718-fb2a-439b-954d-b6236bde8abe](https://user-images.githubusercontent.com/50481107/147714833-397a6276-d645-4842-b5f1-ca6b8df6b4d9.png)
 
 4: baekwoon_hall
-https://user-images.githubusercontent.com/50481107/147714325-0b8075c4-7228-44ee-a2d6-225c701862cc.png
+![147714187-16218480-889b-4420-83bd-1f8c921c40fb](https://user-images.githubusercontent.com/50481107/147714840-d3bc5ca1-042c-4de3-ac09-51a9bd069a1f.png)
 
 5: future_hall_side
-https://user-images.githubusercontent.com/50481107/147713921-706e1e70-6dd0-45ec-9091-6482fc87f726.png
+![147714325-0b8075c4-7228-44ee-a2d6-225c701862cc](https://user-images.githubusercontent.com/50481107/147714849-17f37e2d-c643-4e08-9e8f-cf06d3f9452d.png)
 
 6: central_library
-https://user-images.githubusercontent.com/50481107/147714390-f49e516d-c352-4098-8547-1050a55ca9f6.png
+![147713921-706e1e70-6dd0-45ec-9091-6482fc87f726](https://user-images.githubusercontent.com/50481107/147714867-a241a15c-62b1-47d1-8309-88409b21d63e.png)
 
 7: student_union_building
-https://user-images.githubusercontent.com/50481107/147714075-bbb3706d-1137-4cde-becf-fcacc15f442d.png
+![147714390-f49e516d-c352-4098-8547-1050a55ca9f6](https://user-images.githubusercontent.com/50481107/147714873-ef735816-72e9-4e11-bbff-edf4e8db77d6.png)
 
 8: creation_hall_back
-https://user-images.githubusercontent.com/50481107/147713732-d067dead-9092-45d8-b77e-4d87753e1ad4.png
+![147714075-bbb3706d-1137-4cde-becf-fcacc15f442d](https://user-images.githubusercontent.com/50481107/147714875-3924d2ef-0f2c-4088-9ea0-e33eb27f29d3.png)
 
 9: central_library_back
-https://user-images.githubusercontent.com/50481107/147714462-c5e8f538-af3b-4772-8823-4266d7146399.png
+![147713732-d067dead-9092-45d8-b77e-4d87753e1ad4](https://user-images.githubusercontent.com/50481107/147714882-aab28006-b899-470b-8a2e-0183f912738e.png)
 
 10: student_union_building_back
-https://user-images.githubusercontent.com/50481107/147714025-fb6ada77-4b85-4625-b82d-38f20ca83626.png
+![147714025-fb6ada77-4b85-4625-b82d-38f20ca83626](https://user-images.githubusercontent.com/50481107/147714896-4c3dff36-5bf7-4edc-ab57-fbe4a05bbbbf.png)
 
 11: eagle
-https://user-images.githubusercontent.com/50481107/147713812-10e1651f-cbbd-49f5-86b7-84a5af594563.png
+![147714462-c5e8f538-af3b-4772-8823-4266d7146399](https://user-images.githubusercontent.com/50481107/147714889-1130b24f-074d-4181-b265-9e06bc8e7339.png)
 
 12: future_hall
-https://user-images.githubusercontent.com/50481107/147713854-e3117fcf-ccb3-4ec8-8bb7-28d4fb37c314.png
+![147713812-10e1651f-cbbd-49f5-86b7-84a5af594563](https://user-images.githubusercontent.com/50481107/147714912-551d9c32-1d03-4976-aff4-03a7d7372eda.png)
 
 ## Intro
 Paper YOLO v4: https://arxiv.org/abs/2004.10934
