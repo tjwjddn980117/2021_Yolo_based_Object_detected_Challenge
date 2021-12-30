@@ -15,8 +15,46 @@ Team Member:
 이채연 2019253003
 
 강현영 2018272026
-              
+            
+### temp 결과 화면
+0: university_headquarters
+https://user-images.githubusercontent.com/50481107/147714278-6bf27d02-2511-42ae-9064-ca01d918afa6.png
 
+1: justice_hall
+https://user-images.githubusercontent.com/50481107/147713993-0aeb54ca-1d85-4f72-968e-b7310176f732.png
+
+2: cheongsong_hall
+https://user-images.githubusercontent.com/50481107/147714134-52f38718-fb2a-439b-954d-b6236bde8abe.png
+
+3: creation_hall
+https://user-images.githubusercontent.com/50481107/147714187-16218480-889b-4420-83bd-1f8c921c40fb.png
+
+4: baekwoon_hall
+https://user-images.githubusercontent.com/50481107/147714325-0b8075c4-7228-44ee-a2d6-225c701862cc.png
+
+5: future_hall_side
+https://user-images.githubusercontent.com/50481107/147713921-706e1e70-6dd0-45ec-9091-6482fc87f726.png
+
+6: central_library
+https://user-images.githubusercontent.com/50481107/147714390-f49e516d-c352-4098-8547-1050a55ca9f6.png
+
+7: student_union_building
+https://user-images.githubusercontent.com/50481107/147714075-bbb3706d-1137-4cde-becf-fcacc15f442d.png
+
+8: creation_hall_back
+https://user-images.githubusercontent.com/50481107/147713732-d067dead-9092-45d8-b77e-4d87753e1ad4.png
+
+9: central_library_back
+https://user-images.githubusercontent.com/50481107/147714462-c5e8f538-af3b-4772-8823-4266d7146399.png
+
+10: student_union_building_back
+https://user-images.githubusercontent.com/50481107/147714025-fb6ada77-4b85-4625-b82d-38f20ca83626.png
+
+11: eagle
+https://user-images.githubusercontent.com/50481107/147713812-10e1651f-cbbd-49f5-86b7-84a5af594563.png
+
+12: future_hall
+https://user-images.githubusercontent.com/50481107/147713854-e3117fcf-ccb3-4ec8-8bb7-28d4fb37c314.png
 
 ## Intro
 Paper YOLO v4: https://arxiv.org/abs/2004.10934
