@@ -1,10 +1,10 @@
 # 2021_Yolo_based_Object_detected_Challenge
 
 Team Name:    코딩몽키
-Team Member:  서정우 2019253009 (Leader)
-              유진경 2019253013
-              이채연 2019253003
-              강현영 2018272026
+Team Member:  서정우 2019253009 (Leader)\n
+              유진경 2019253013\n
+              이채연 2019253003\n
+              강현영 2018272026\n
 
 ## Intro
 Paper YOLO v4: https://arxiv.org/abs/2004.10934
