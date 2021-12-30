@@ -1,8 +1,13 @@
 # 2021_Yolo_based_Object_detected_Challenge
 
-Team Name:    코딩몽키
 
-Team Member:  
+Team Name:    
+
+코딩몽키
+
+
+Team Member: 
+
 서정우 2019253009 (Leader)
 
 유진경 2019253013
@@ -11,6 +16,7 @@ Team Member:
 
 강현영 2018272026
               
+
 
 ## Intro
 Paper YOLO v4: https://arxiv.org/abs/2004.10934
@@ -34,21 +40,36 @@ Here is the Context
 - How To Run
               
 ## Develop Environment
+
 Hardware
+
 CPU: AMD Ryzen 5 5600X
+
 GPU: ZOTAC Gaming GeForce RTX™ 3070Ti AMP Holo
+
 SSD: Western Digital WD BLUE SN550 M.2 NVMe 1TB
+
 RAM: Samsung DDR4-2666 32GB (16GB*2)
 
+
 Software
+
 OS: Windows 10 pro
+
 Version:
+
   python: 3.7.11
+  
   tensorflow-gpu: 2.7.0
+  
   openCV: 3.4.2
+  
   Nvidia Driver: 471.68
+  
   Cuda: 11.4
+  
   CUDNN: 8.2.1
+  
   
 ## Data
 You can download our dataset with this URL
