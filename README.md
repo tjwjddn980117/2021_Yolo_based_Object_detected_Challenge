@@ -82,32 +82,32 @@ Here is the Context
 
 Hardware
 
-CPU: AMD Ryzen 5 5600X
+- CPU: AMD Ryzen 5 5600X
 
-GPU: ZOTAC Gaming GeForce RTX™ 3070Ti AMP Holo
+- GPU: ZOTAC Gaming GeForce RTX™ 3070Ti AMP Holo
 
-SSD: Western Digital WD BLUE SN550 M.2 NVMe 1TB
+- SSD: Western Digital WD BLUE SN550 M.2 NVMe 1TB
 
-RAM: Samsung DDR4-2666 32GB (16GB*2)
+- RAM: Samsung DDR4-2666 32GB (16GB*2)
 
 
 Software
 
-OS: Windows 10 pro
+- OS: Windows 10 pro
 
-Version:
+- Version:
 
-  python: 3.7.11
+--  python: 3.7.11
   
-  tensorflow-gpu: 2.7.0
+--  tensorflow-gpu: 2.7.0
   
-  openCV: 3.4.2
+--  openCV: 3.4.2
   
-  Nvidia Driver: 471.68
+--  Nvidia Driver: 471.68
   
-  Cuda: 11.4
+--  Cuda: 11.4
   
-  CUDNN: 8.2.1
+--  CUDNN: 8.2.1
   
   
 ## Data
