@@ -1,8 +1,6 @@
 # 2021_Yolo_based_Object_detected_Challenge
 
-
-Team Name:    
-
+Team Name:
 - 코딩몽키
 
 
@@ -32,7 +30,8 @@ Our goal is to recognize the buildings of the Mirae Campus of Yonsei University 
 Here is the Context
 - Develop Environment
 - Data
-- How To Run
+- Setting
+- Popup
 - Conclusion
               
 ## Develop Environment
@@ -111,8 +110,28 @@ Labeling mainly on the entrance side, which is the main characteristic for recog
 
 <img width="393" alt="스크린샷 2021-12-30 오후 8 42 55" src="https://user-images.githubusercontent.com/51360338/147798188-1a0c4ca0-47ed-4384-b6ed-183a84bc4acd.png">
 
+## Setting
 
-## How to run
+edit 'cfg/yolov4-tiny-custom_testing.cfg' file.
+
+<img width="868" alt="스크린샷 2021-12-30 오후 9 58 36" src="https://user-images.githubusercontent.com/51360338/147800504-09bb8b89-dc56-42cf-bc91-de8d43fea155.png">
+
+'[yolo] classes' has to be 13, and '[convolutional] filters' has to be 256
+
+edit 'data/obj.names' file.
+
+<img width="614" alt="스크린샷 2021-12-30 오후 10 02 54" src="https://user-images.githubusercontent.com/51360338/147800644-47b8bf04-34de-41f7-ad75-e46add2ce599.png">
+
+edit 'data/obj.data' file.
+
+<img width="571" alt="스크린샷 2021-12-30 오후 10 04 15" src="https://user-images.githubusercontent.com/51360338/147800687-33013e22-c503-46ec-94d5-16b3dd112972.png">         
+
+'classes' has to be 13.
+
+## Popup
+
+<img width="824" alt="스크린샷 2021-12-30 오후 9 01 14" src="https://user-images.githubusercontent.com/51360338/147798745-d53215ee-e352-4691-a232-e3cccb129bb5.png">
+
 
 ## Conclustion
 
