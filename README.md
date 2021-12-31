@@ -130,8 +130,23 @@ edit 'data/obj.data' file.
 
 ## Popup
 
+we edit '/src/image_opencv.cpp' file.
+
 <img width="824" alt="스크린샷 2021-12-30 오후 9 01 14" src="https://user-images.githubusercontent.com/51360338/147798745-d53215ee-e352-4691-a232-e3cccb129bb5.png">
 
+When the object is recognized, a pop-up appears. 
+
+The program pauses for a moment while the popup is floating. 
+
+When you close the pop-up, the program runs again.
+
+If the detected object is a building with information of 'back' or 'side', the code is coded to display the same popup as that of a building without 'back' or 'side'.
+
+Popup data is in the path '/data/popup'
+
+here is the example
+
+<img width="1301" alt="스크린샷 2021-12-30 오후 10 15 36" src="https://user-images.githubusercontent.com/51360338/147801060-47cba5fe-08dd-46b7-a06d-b82134ae919f.png">
 
 ## Conclustion
 
