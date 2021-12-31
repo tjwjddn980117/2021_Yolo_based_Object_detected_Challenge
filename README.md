@@ -122,7 +122,7 @@ edit 'cfg/yolov4-tiny-custom_testing.cfg' file.
 
 <img width="868" alt="스크린샷 2021-12-30 오후 9 58 36" src="https://user-images.githubusercontent.com/51360338/147800504-09bb8b89-dc56-42cf-bc91-de8d43fea155.png">
 
-'[yolo] classes' has to be 13, and '[convolutional] filters' has to be 256
+'[yolo] classes' has to be 13 (line 150, line 269), and '[convolutional] filters' has to be 256 (line 137, line 253)
 
 edit 'data/obj.names' file.
 
