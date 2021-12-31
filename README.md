@@ -3,20 +3,105 @@
 
 Team Name:    
 
-코딩몽키
+- 코딩몽키
 
 
 Team Member: 
-
-서정우 2019253009 (Leader)
-
-유진경 2019253013
-
-이채연 2019253003
-
-강현영 2018272026
+- 서정우 2019253009 (Leader)
+- 유진경 2019253013
+- 이채연 2019253003
+- 강현영 2018272026
             
-### temp 결과 화면
+
+## Intro
+Paper YOLO v4: https://arxiv.org/abs/2004.10934
+
+Paper Scaled YOLO v4: * **[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Scaled-YOLOv4_Scaling_Cross_Stage_Partial_Network_CVPR_2021_paper.html)**: use to reproduce results: [ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4)
+
+More details in articles on medium:
+
+- [Scaled_YOLOv4](https://alexeyab84.medium.com/scaled-yolo-v4-is-the-best-neural-network-for-object-detection-on-ms-coco-dataset-39dfa22fa982?source=friends_link&sk=c8553bfed861b1a7932f739d26f487c8)
+- [YOLOv4](https://medium.com/@alexeyab84/yolov4-the-most-accurate-real-time-neural-network-on-ms-coco-dataset-73adfd3602fe?source=friends_link&sk=6039748846bbcf1d960c3061542591d7)
+
+Manual: https://github.com/AlexeyAB/darknet/wiki
+
+This git code is entirely 'https://github.com/AlexeyAB/darknet' modified git code.
+
+Our goal is to recognize the buildings of the Mirae Campus of Yonsei University using the yolo model.
+
+Here is the Context
+- Develop Environment
+- Data
+- How To Run
+- Conclusion
+              
+## Develop Environment
+
+Hardware
+
+- CPU: AMD Ryzen 5 5600X
+
+- GPU: ZOTAC Gaming GeForce RTX™ 3070Ti AMP Holo
+
+- SSD: Western Digital WD BLUE SN550 M.2 NVMe 1TB
+
+- RAM: Samsung DDR4-2666 32GB (16GB*2)
+
+
+Software
+
+- OS: Windows 10 pro
+
+- Version:
+
+  -  python: 3.7.11
+  
+  -  tensorflow-gpu: 2.7.0
+  
+  -  openCV: 3.4.2
+  
+  -  Nvidia Driver: 471.68
+  
+  -  Cuda: 11.4
+  
+  -  CUDNN: 8.2.1
+  
+  
+## Data
+You can download our dataset with this URL
+dataset: https://drive.google.com/file/d/1V0TsN6g2lwNEwdx8xcUIipz8JCs3jn5F/view?usp=sharing
+
+Please set up the datasets 'data' file in to ./darknet-master
+
+then, this is the screen of path './darknet-master/data'
+
+<img width="693" alt="스크린샷 2021-12-30 오후 7 55 55" src="https://user-images.githubusercontent.com/51360338/147796995-eb786813-f50a-44fe-84c9-1203cecf0917.png">
+
+'obj' file has our labeled datas
+
+
+'popup' file has our popup datas witch contain explanation about the Building.
+
+
+We have 13 classes, and these are the list
+- university_headquarters
+- justice_hall
+- cheongsong_hall
+- creation_hall
+- baekwoon_hall
+- future_hall
+- central_library
+- student_union_building
+- creation_hall_back
+- central_library_back
+- student_union_building_back
+- eagle
+- future_hall_side
+
+## How to run
+
+## Conclustion
+
 0: university_headquarters
 ![147714278-6bf27d02-2511-42ae-9064-ca01d918afa6](https://user-images.githubusercontent.com/50481107/147714810-a3e2edb3-e922-4409-84ed-fff184b26548.png)
 
@@ -56,66 +141,6 @@ Team Member:
 
 12: future_hall_side
 ![147713921-706e1e70-6dd0-45ec-9091-6482fc87f726](https://user-images.githubusercontent.com/50481107/147714867-a241a15c-62b1-47d1-8309-88409b21d63e.png)
-
-## Intro
-Paper YOLO v4: https://arxiv.org/abs/2004.10934
-
-Paper Scaled YOLO v4: * **[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Scaled-YOLOv4_Scaling_Cross_Stage_Partial_Network_CVPR_2021_paper.html)**: use to reproduce results: [ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4)
-
-More details in articles on medium:
-
-- [Scaled_YOLOv4](https://alexeyab84.medium.com/scaled-yolo-v4-is-the-best-neural-network-for-object-detection-on-ms-coco-dataset-39dfa22fa982?source=friends_link&sk=c8553bfed861b1a7932f739d26f487c8)
-- [YOLOv4](https://medium.com/@alexeyab84/yolov4-the-most-accurate-real-time-neural-network-on-ms-coco-dataset-73adfd3602fe?source=friends_link&sk=6039748846bbcf1d960c3061542591d7)
-
-Manual: https://github.com/AlexeyAB/darknet/wiki
-
-This git code is entirely 'https://github.com/AlexeyAB/darknet' modified git code.
-
-Our goal is to recognize the buildings of the Mirae Campus of Yonsei University using the yolo model.
-
-Here is the Context
-- Develop Environment
-- Data
-- How To Run
-              
-## Develop Environment
-
-Hardware
-
-- CPU: AMD Ryzen 5 5600X
-
-- GPU: ZOTAC Gaming GeForce RTX™ 3070Ti AMP Holo
-
-- SSD: Western Digital WD BLUE SN550 M.2 NVMe 1TB
-
-- RAM: Samsung DDR4-2666 32GB (16GB*2)
-
-
-Software
-
-- OS: Windows 10 pro
-
-- Version:
-
-  -  python: 3.7.11
-  
-  -  tensorflow-gpu: 2.7.0
-  
-  -  openCV: 3.4.2
-  
-  -  Nvidia Driver: 471.68
-  
-  -  Cuda: 11.4
-  
-  -  CUDNN: 8.2.1
-  
-  
-## Data
-You can download our dataset with this URL
-dataset: https://drive.google.com/file/d/1V0TsN6g2lwNEwdx8xcUIipz8JCs3jn5F/view?usp=sharing
-
-Please set up the datasets 'obj' file in to ./data
-<img width="620" alt="스크린샷 2021-12-29 오후 7 40 40" src="https://user-images.githubusercontent.com/51360338/147712934-1c4adbc3-dd5a-40b4-9b1a-b7bae9e60270.png">
 
 
 ## (neural networks for object detection)
