@@ -97,17 +97,17 @@ Software
 
 - Version:
 
---  python: 3.7.11
+ -  python: 3.7.11
   
---  tensorflow-gpu: 2.7.0
+ -  tensorflow-gpu: 2.7.0
   
---  openCV: 3.4.2
+ -  openCV: 3.4.2
   
---  Nvidia Driver: 471.68
+ -  Nvidia Driver: 471.68
   
---  Cuda: 11.4
+ -  Cuda: 11.4
   
---  CUDNN: 8.2.1
+ -  CUDNN: 8.2.1
   
   
 ## Data
