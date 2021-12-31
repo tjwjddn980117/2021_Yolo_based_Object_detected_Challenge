@@ -32,7 +32,10 @@ Here is the Context
 - Data
 - Setting
 - Popup
+- How To Run
 - Conclusion
+
+Supervised and helped by C-J Lee, S-R Hwang, and H-U Yoon
               
 ## Develop Environment
 
@@ -64,6 +67,9 @@ Software
   -  Cuda: 11.4
   
   -  CUDNN: 8.2.1
+
+
+Supervised and helped by C-J Lee, S-R Hwang, and H-U Yoon
   
   
 ## Data
@@ -128,6 +134,9 @@ edit 'data/obj.data' file.
 
 'classes' has to be 13.
 
+
+Supervised and helped by C-J Lee, S-R Hwang, and H-U Yoon
+
 ## Popup
 
 we edit '/src/image_opencv.cpp' file.
@@ -147,6 +156,39 @@ Popup data is in the path '/data/popup'
 here is the example
 
 <img width="1301" alt="스크린샷 2021-12-30 오후 10 15 36" src="https://user-images.githubusercontent.com/51360338/147801060-47cba5fe-08dd-46b7-a06d-b82134ae919f.png">
+
+
+
+Supervised and helped by C-J Lee, S-R Hwang, and H-U Yoon
+
+## How To Run
+
+If you don't have cfg file, you can download in this URL https://drive.google.com/file/d/1USA2HumLUOiQjn_obyGM3blM9BGUPc2P/view?usp=sharing
+
+Please set up the 'cfg' file in to ./darknet-master
+
+<img width="623" alt="스크린샷 2021-12-30 오후 10 54 41" src="https://user-images.githubusercontent.com/51360338/147802362-c593b610-78d7-4dfd-8fa0-8466cc90808e.png">
+
+Training
+- train
+
+            darknet.exe detector train data/obj.data cfg/yolov4-tiny-custom.cfg yolov4-tiny.conv.29 -dont_show -map
+
+- Transfer Learning
+
+            darknet.exe detector train data/obj.data cfg/yolov4-tiny-custom.cfg /content/darknet/backup/custom-yolov4-detector_last.weights
+            
+            
+
+Test
+
+            darknet.exe detector demo data/obj.data cfg/yolov4-tiny-custom_testing.cfg ../training/yolov4-tiny-custom_best.weights -thresh 0.5
+
+If you want to recognize objects with a webcam while running on a computer with a built-in camera,
+
+            darknet.exe detector demo data/obj.data cfg/yolov4-tiny-custom_testing.cfg ../training/yolov4-tiny-custom_best.weights -thresh 0.5 -c 1
+
+Supervised and helped by C-J Lee, S-R Hwang, and H-U Yoon
 
 ## Conclustion
 
@@ -207,6 +249,7 @@ This is the object detection about each class
 9: central_library_back
 ![147714462-c5e8f538-af3b-4772-8823-4266d7146399](https://user-images.githubusercontent.com/50481107/147714889-1130b24f-074d-4181-b265-9e06bc8e7339.png)
 
+
 10: student_union_building_back
 ![147714025-fb6ada77-4b85-4625-b82d-38f20ca83626](https://user-images.githubusercontent.com/50481107/147714896-4c3dff36-5bf7-4edc-ab57-fbe4a05bbbbf.png)
 
@@ -217,3 +260,5 @@ This is the object detection about each class
 ![147713921-706e1e70-6dd0-45ec-9091-6482fc87f726](https://user-images.githubusercontent.com/50481107/147714867-a241a15c-62b1-47d1-8309-88409b21d63e.png)
 
 
+
+Supervised and helped by C-J Lee, S-R Hwang, and H-U Yoon
