@@ -83,20 +83,34 @@ then, this is the screen of path './darknet-master/data'
 'popup' file has our popup datas witch contain explanation about the Building.
 
 
-We have 13 classes, and these are the list
-- university_headquarters
-- justice_hall
-- cheongsong_hall
-- creation_hall
-- baekwoon_hall
-- future_hall
-- central_library
-- student_union_building
-- creation_hall_back
-- central_library_back
-- student_union_building_back
-- eagle
-- future_hall_side
+We have 13 classes, and these are the list and number of class 'class(number of class)'
+- university_headquarters (151)
+- justice_hall (187)
+- cheongsong_hall (53)
+- creation_hall (75)
+- baekwoon_hall (148)
+- future_hall (144)
+- central_library (364)
+- student_union_building (116)
+- creation_hall_back (44)
+- central_library_back (138)
+- student_union_building_back (123)
+- eagle (79)
+- future_hall_side (53)
+
+so, total number of labels are 1,675
+
+The side and back sides were added for labeling focusing on the distinctive features of each building.
+
+creation_hall_back (behind the creation hall): Labeling mainly on the entrance to the rear of the creation hall (see photo below)
+
+<img width="351" alt="스크린샷 2021-12-30 오후 8 41 47" src="https://user-images.githubusercontent.com/51360338/147798134-377451f7-2f54-4905-b45c-51b8fa9d6535.png">
+
+In creation_hall or cheongsong_hall, if the profile and entrance are taken together as shown below,
+Labeling mainly on the entrance side, which is the main characteristic for recognizing the Creation Hall.
+
+<img width="393" alt="스크린샷 2021-12-30 오후 8 42 55" src="https://user-images.githubusercontent.com/51360338/147798188-1a0c4ca0-47ed-4384-b6ed-183a84bc4acd.png">
+
 
 ## How to run
 
